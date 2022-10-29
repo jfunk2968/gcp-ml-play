@@ -1,0 +1,2500 @@
+label,os,is_mobile,country,pageviews
+0,Windows,False,Australia,2
+0,iOS,True,United Kingdom,3
+0,Macintosh,False,Canada,4
+0,Chrome OS,False,United States,4
+0,iOS,True,India,4
+0,Windows,False,United States,4
+0,iOS,True,India,4
+0,Linux,False,United States,4
+0,iOS,True,Japan,4
+0,iOS,True,Japan,4
+0,Macintosh,False,Japan,4
+0,Windows,False,France,4
+0,Windows,False,Turkey,4
+0,Macintosh,False,Japan,4
+0,iOS,True,Australia,2
+0,Android,True,Dominican Republic,3
+0,Android,True,Philippines,4
+0,iOS,True,Philippines,4
+0,iOS,True,United States,3
+0,iOS,True,Australia,4
+0,Windows,False,United Kingdom,4
+0,Macintosh,False,Germany,3
+0,Android,True,India,2
+0,Android,True,India,4
+0,iOS,True,United States,4
+0,iOS,True,United States,4
+0,Macintosh,False,Austria,3
+0,Macintosh,False,United States,5
+0,iOS,True,United States,4
+0,Windows,False,Malaysia,5
+0,Windows,False,Malaysia,5
+0,iOS,True,Canada,5
+0,Android,True,United States,5
+0,iOS,True,United States,5
+0,iOS,True,United States,5
+0,Macintosh,False,United States,5
+0,iOS,True,United States,5
+0,Android,True,Nigeria,5
+0,Linux,False,United States,5
+0,iOS,True,Japan,5
+0,iOS,True,United States,3
+0,Windows,False,United States,5
+0,Linux,False,United States,5
+0,Macintosh,False,United States,4
+0,Windows,False,Denmark,5
+0,Macintosh,False,United States,4
+0,Chrome OS,False,United States,5
+0,Macintosh,False,United States,5
+0,Windows,False,United States,5
+0,Macintosh,False,Sweden,4
+0,Chrome OS,False,United States,5
+0,Macintosh,False,United States,4
+0,Linux,False,United States,5
+0,Macintosh,False,United States,5
+0,iOS,True,United States,4
+0,Macintosh,False,United States,3
+0,iOS,True,Vietnam,3
+0,Macintosh,False,Germany,5
+0,Macintosh,False,United States,3
+0,iOS,True,United Kingdom,5
+0,iOS,True,Australia,3
+0,Windows,False,Malta,5
+0,Android,True,Germany,3
+0,Windows,False,Australia,4
+0,iOS,True,Singapore,5
+0,Windows,False,United States,5
+0,Chrome OS,False,United States,3
+0,Macintosh,False,Bulgaria,5
+0,Android,True,United States,6
+0,Macintosh,False,United States,6
+0,Linux,False,United States,6
+0,Macintosh,False,United States,5
+0,iOS,True,Canada,6
+0,Windows,False,United States,6
+0,Macintosh,False,United States,6
+0,Chrome OS,False,India,6
+0,Macintosh,False,United States,4
+0,Windows,False,Belgium,6
+0,Macintosh,False,United States,6
+0,Windows,False,Namibia,6
+0,Macintosh,False,United States,4
+0,Linux,False,United States,6
+0,Chrome OS,False,United States,6
+0,Windows,False,United States,6
+0,iOS,True,India,4
+0,Windows,False,United States,5
+0,iOS,True,United States,6
+0,Windows,False,United States,5
+0,Windows,False,United States,6
+0,Linux,False,United States,6
+0,Macintosh,False,United States,6
+0,Windows,False,United States,4
+0,Macintosh,False,United States,6
+0,Linux,False,United States,6
+0,Windows,False,United States,5
+0,Macintosh,False,United States,6
+0,iOS,True,United States,6
+0,Chrome OS,False,United States,6
+0,Macintosh,False,United States,4
+0,Macintosh,False,United States,6
+0,Linux,False,United States,6
+0,Linux,False,United States,6
+0,Macintosh,False,United States,5
+0,Windows,False,United Kingdom,6
+0,Android,True,United States,4
+0,Macintosh,False,Germany,4
+0,Windows,False,United States,4
+0,Android,True,United States,6
+0,Windows,False,India,5
+0,iOS,True,United States,6
+0,Windows,False,Czechia,6
+0,Windows,False,Canada,4
+0,iOS,True,United States,4
+0,iOS,True,France,6
+0,Android,True,India,5
+0,Chrome OS,False,United States,5
+0,iOS,True,United Kingdom,5
+0,Macintosh,False,United States,6
+0,iOS,True,Mexico,6
+0,Windows,False,United States,5
+0,Android,True,India,6
+0,Windows,False,Philippines,6
+0,Chrome OS,False,United States,6
+0,iOS,True,United States,7
+0,iOS,True,United States,7
+0,Windows,False,United States,7
+0,Linux,False,United States,5
+0,Windows,False,United States,5
+0,Android,True,United States,7
+0,Linux,False,United States,7
+0,Macintosh,False,United States,5
+0,Macintosh,False,United States,6
+0,Chrome OS,False,United States,7
+0,iOS,True,India,7
+0,Windows,False,United States,6
+0,Windows,False,Malaysia,4
+0,Macintosh,False,United States,7
+0,Windows,False,Brazil,5
+0,Macintosh,False,Brazil,7
+0,Macintosh,False,United States,7
+0,Windows,False,Malta,7
+0,Macintosh,False,Ireland,5
+0,Macintosh,False,United States,7
+0,Macintosh,False,United States,7
+0,Android,True,United States,7
+0,iOS,True,United States,5
+0,Linux,False,United States,7
+0,iOS,True,United States,4
+0,Windows,False,Poland,7
+0,Macintosh,False,United States,7
+0,Windows,False,United States,6
+0,Windows,False,United Kingdom,6
+0,Android,True,United States,7
+0,Macintosh,False,Belgium,7
+0,Windows,False,United States,7
+0,iOS,True,United States,4
+0,iOS,True,Italy,7
+0,iOS,True,Sint Maarten,7
+0,iOS,True,France,7
+0,Windows,False,United States,7
+0,Macintosh,False,France,6
+0,Windows,False,United States,7
+0,Android,True,United States,6
+0,Macintosh,False,United States,4
+0,Android,True,Italy,7
+0,iOS,True,United States,5
+0,Linux,False,Colombia,7
+0,Android,True,Australia,7
+0,Chrome OS,False,United States,7
+0,iOS,True,United States,4
+0,Windows,False,Germany,6
+0,Windows,False,United States,5
+0,Macintosh,False,United States,7
+0,iOS,True,United States,8
+0,Windows,False,India,7
+0,iOS,True,United States,8
+0,Macintosh,False,United States,8
+0,Windows,False,United Kingdom,8
+0,Macintosh,False,United States,7
+0,Windows,False,United States,8
+0,Windows,False,Japan,8
+0,Chrome OS,False,United States,8
+0,iOS,True,United States,6
+0,iOS,True,United States,8
+0,Macintosh,False,United States,6
+0,iOS,True,Saudi Arabia,8
+0,Macintosh,False,United States,7
+0,Linux,False,United States,8
+0,Macintosh,False,United States,7
+0,Windows,False,United States,4
+0,Windows,False,United States,6
+0,Windows,False,United States,5
+0,iOS,True,France,8
+0,iOS,True,United States,7
+0,iOS,True,Japan,6
+0,Windows,False,Romania,8
+0,Macintosh,False,United States,4
+0,Android,True,United States,7
+0,Android,True,United States,7
+0,Windows,False,Italy,9
+0,Macintosh,False,United States,6
+0,Windows,False,Canada,8
+0,Macintosh,False,United States,9
+0,Windows,False,Japan,9
+0,Macintosh,False,United States,9
+0,Macintosh,False,United States,7
+0,Macintosh,False,United States,9
+0,Android,True,United States,9
+0,Macintosh,False,Denmark,9
+0,Macintosh,False,Germany,9
+0,Android,True,Cyprus,9
+0,Windows,False,United States,7
+0,iOS,True,United States,8
+0,Macintosh,False,United States,9
+0,Windows,False,Canada,9
+0,Windows,False,Malaysia,8
+0,Macintosh,False,United States,8
+0,Linux,False,United States,10
+0,Windows,False,Malaysia,6
+0,Windows,False,Brazil,8
+0,Windows,False,Germany,8
+0,Linux,False,United States,7
+0,Windows,False,Mexico,7
+0,Linux,False,United States,7
+0,Macintosh,False,United States,7
+0,Macintosh,False,United States,10
+0,Windows,False,Canada,9
+0,Macintosh,False,United States,9
+0,iOS,True,United States,6
+0,Linux,False,United States,9
+0,Macintosh,False,United States,10
+0,Macintosh,False,United States,8
+0,Macintosh,False,United Arab Emirates,8
+0,Chrome OS,False,United States,9
+0,Windows,False,United States,4
+0,iOS,True,Japan,10
+0,Windows,False,India,7
+0,Windows,False,United States,10
+0,Android,True,Belgium,10
+0,Windows,False,United States,7
+0,iOS,True,Mexico,10
+0,iOS,True,Singapore,5
+0,Macintosh,False,United States,5
+0,iOS,True,United States,8
+0,Android,True,United States,10
+0,Macintosh,False,United States,11
+0,Macintosh,False,United States,9
+0,Windows,False,Brazil,10
+0,Macintosh,False,Canada,10
+0,iOS,True,United States,11
+0,Chrome OS,False,United States,11
+0,Windows,False,Malaysia,7
+0,Macintosh,False,United States,10
+0,Chrome OS,False,United States,11
+0,Android,True,Italy,11
+0,Windows,False,Malaysia,6
+0,Android,True,China,6
+0,Windows,False,Malaysia,7
+0,Macintosh,False,United States,11
+0,Windows,False,United States,10
+0,Macintosh,False,United States,5
+0,Windows,False,United States,7
+0,Windows,False,United States,7
+0,Linux,False,United States,11
+0,Linux,False,United States,11
+0,Android,True,Germany,9
+0,iOS,True,United States,11
+0,Macintosh,False,United States,9
+0,Android,True,India,11
+0,iOS,True,United States,8
+0,Windows,False,Spain,10
+0,Macintosh,False,United States,10
+0,Windows,False,United States,12
+0,Android,True,United States,12
+0,Windows,False,Malaysia,7
+0,Windows,False,Malaysia,7
+0,Chrome OS,False,United States,10
+0,Macintosh,False,United States,8
+0,Macintosh,True,United States,11
+0,iOS,True,United States,10
+0,Macintosh,False,United States,8
+0,Linux,False,United States,12
+0,Linux,False,United States,10
+0,Windows,False,United States,10
+0,iOS,True,United States,11
+0,Android,True,United Kingdom,8
+0,iOS,True,Australia,10
+0,Macintosh,False,United States,10
+0,Macintosh,False,United States,10
+0,Macintosh,False,United States,11
+0,Windows,False,United States,11
+0,Macintosh,False,France,11
+0,Macintosh,False,United States,11
+0,Windows,False,Malaysia,6
+0,Macintosh,False,Chile,13
+0,iOS,True,United States,13
+0,Linux,False,South Korea,9
+0,Windows,False,Malaysia,8
+0,iOS,True,United States,10
+0,iOS,True,United Kingdom,8
+0,Linux,False,United States,13
+0,Linux,False,United States,12
+0,iOS,True,Hong Kong,10
+0,Macintosh,False,United States,12
+0,Android,True,Canada,12
+0,Macintosh,False,United Kingdom,11
+0,iOS,True,United States,11
+0,Windows,False,United States,8
+0,Windows,False,United States,11
+0,Windows,False,United Kingdom,8
+0,Linux,False,Brazil,11
+0,Windows,False,United States,14
+0,Windows,False,Ecuador,10
+0,Windows,False,United States,14
+0,Android,True,United States,11
+0,Windows,False,Malaysia,10
+0,Macintosh,False,United States,9
+0,Macintosh,False,United States,12
+0,iOS,True,Singapore,13
+0,Linux,False,United States,14
+0,Android,True,Hong Kong,10
+0,Windows,False,Panama,6
+0,Linux,False,United States,11
+0,Windows,False,United States,10
+0,iOS,True,United States,10
+0,Windows,False,United States,12
+0,Chrome OS,False,United States,14
+1,Windows,False,United States,15
+0,Windows,False,Malaysia,10
+0,Windows,False,United States,14
+0,Macintosh,False,United States,9
+0,Linux,False,United States,15
+0,Linux,False,United States,15
+0,Macintosh,False,United States,11
+0,Android,True,United States,13
+0,iOS,True,United States,13
+0,Macintosh,False,United States,14
+0,Windows,False,United States,12
+1,Linux,False,United States,13
+0,Android,True,India,11
+0,Android,True,Germany,12
+0,iOS,True,United States,13
+0,Windows,False,Netherlands,12
+0,Macintosh,False,United States,9
+0,Windows,False,United States,13
+0,Windows,False,United States,16
+0,iOS,True,United States,15
+0,Macintosh,False,United States,13
+0,Linux,False,United States,13
+0,Macintosh,False,United States,14
+0,Macintosh,False,United States,11
+0,Windows,False,Malaysia,10
+0,Macintosh,False,United States,16
+0,Windows,False,United States,15
+0,Windows,False,United States,16
+0,Macintosh,False,United States,13
+0,iOS,True,Vietnam,9
+0,Macintosh,False,Spain,14
+1,Windows,False,United States,16
+0,Chrome OS,False,United States,17
+0,Chrome OS,False,United States,17
+0,Android,True,United States,15
+0,Windows,False,Malaysia,10
+0,Windows,False,Malaysia,10
+0,iOS,True,United States,15
+0,Macintosh,False,United States,12
+0,Macintosh,False,Philippines,12
+0,Chrome OS,False,United States,16
+0,Macintosh,False,United States,18
+1,Macintosh,False,United States,17
+1,Windows,False,United States,16
+0,iOS,True,United States,14
+0,Macintosh,False,Australia,15
+0,Android,True,India,11
+0,Linux,False,United States,18
+0,(not set),True,Indonesia,17
+0,Macintosh,False,United States,11
+0,iOS,True,United States,19
+0,Windows,False,Malaysia,19
+1,Macintosh,False,United States,18
+0,Chrome OS,False,United States,15
+0,iOS,True,United States,17
+0,Windows,False,Malaysia,11
+0,Android,True,United States,12
+0,Linux,False,United States,14
+0,Macintosh,False,United States,14
+0,Windows,False,Poland,15
+0,iOS,True,Canada,14
+0,iOS,True,United States,17
+0,Windows,False,Malaysia,12
+0,Android,True,Italy,14
+0,Windows,False,United States,18
+0,Windows,False,United States,18
+1,Macintosh,False,United States,14
+0,Windows,False,Pakistan,12
+0,Chrome OS,False,United Kingdom,17
+1,Macintosh,False,United States,20
+1,Macintosh,False,United States,19
+0,Macintosh,False,Brazil,16
+0,Android,True,India,20
+0,Macintosh,False,United States,15
+0,Android,True,United States,19
+0,Macintosh,False,United States,15
+0,Windows,False,Malaysia,14
+0,Macintosh,False,Australia,14
+0,Windows,False,Russia,17
+1,Macintosh,False,United States,17
+1,Macintosh,False,United States,20
+0,Windows,False,France,23
+0,Android,True,United States,18
+0,Windows,False,Malaysia,18
+0,Windows,False,Malaysia,13
+0,Windows,False,United States,10
+1,Macintosh,False,United States,21
+0,Chrome OS,False,United States,19
+0,Macintosh,False,United States,20
+0,Windows,False,United States,18
+0,iOS,True,United States,19
+0,Chrome OS,False,United States,21
+0,Macintosh,False,United States,15
+1,Chrome OS,False,United States,20
+1,Macintosh,False,United States,24
+0,Macintosh,False,United States,22
+0,Macintosh,False,United States,14
+1,Android,True,United States,21
+0,Macintosh,False,United States,21
+1,Macintosh,False,United States,23
+0,Windows,False,United States,18
+1,Macintosh,False,United States,22
+0,Android,True,United States,24
+1,Windows,False,United States,22
+0,Macintosh,False,United States,22
+0,iOS,True,United States,24
+1,Windows,False,United States,24
+0,Macintosh,False,United States,21
+0,Macintosh,False,United States,18
+0,Android,True,United States,22
+0,Macintosh,False,United States,22
+0,Windows,False,Canada,32
+1,Macintosh,False,United States,23
+1,Macintosh,False,United States,28
+0,Macintosh,False,United States,22
+0,Windows,False,United States,24
+0,iOS,True,United States,23
+0,Macintosh,False,United States,27
+0,Macintosh,False,United States,32
+0,Macintosh,False,United States,25
+0,Android,True,New Zealand,29
+0,Windows,False,United States,29
+0,Android,True,Italy,23
+0,Macintosh,False,Japan,29
+1,Macintosh,False,United States,33
+1,Macintosh,False,United States,30
+0,Macintosh,False,United States,32
+1,Windows,False,United States,30
+1,Linux,False,United States,29
+1,Chrome OS,False,United States,35
+1,Macintosh,False,United States,34
+0,Android,True,India,37
+1,Macintosh,False,United States,37
+0,Windows,False,United States,29
+0,Macintosh,False,United States,34
+0,Windows,False,United States,33
+0,Windows,False,Saudi Arabia,35
+1,Windows,False,United States,36
+1,Macintosh,False,United States,28
+0,Windows,False,Canada,45
+1,Android,True,United States,51
+0,Macintosh,False,United States,41
+1,Macintosh,False,United States,111
+0,Windows,False,Philippines,3
+0,Macintosh,False,Brazil,3
+0,Windows,False,Czechia,4
+0,Windows,False,France,3
+0,Windows,False,India,3
+0,Windows,False,Vietnam,2
+0,iOS,True,Japan,4
+0,Windows,False,Martinique,3
+0,Windows,False,Thailand,5
+0,Android,True,Egypt,3
+0,Android,True,South Korea,5
+0,Windows,False,Cameroon,5
+0,Windows,False,Colombia,4
+0,Windows,False,Serbia,5
+0,Android,True,United States,6
+0,Windows,False,Japan,4
+0,Android,True,Canada,6
+0,Macintosh,False,United States,7
+0,Windows,False,Egypt,4
+0,Windows,False,South Korea,4
+0,iOS,True,United States,7
+0,Android,True,Bangladesh,5
+0,Windows,False,United States,10
+0,iOS,True,United States,6
+0,Android,True,India,7
+0,Windows,False,Japan,7
+0,Android,True,India,10
+0,Android,True,Vietnam,16
+0,Windows,False,Thailand,15
+0,Android,True,India,54
+0,Macintosh,False,Vietnam,1
+0,Android,True,India,1
+0,Windows,False,Netherlands,1
+0,Windows,False,Belgium,1
+0,Android,True,Netherlands,1
+0,iOS,True,Hong Kong,1
+0,Android,True,Taiwan,1
+0,Macintosh,False,France,1
+0,Windows,False,Dominican Republic,1
+0,Windows,False,Poland,1
+0,Windows,False,China,1
+0,Windows,False,Italy,1
+0,Windows,False,Malaysia,1
+0,Windows,False,France,1
+0,iOS,True,Poland,1
+0,Macintosh,False,United States,1
+0,Windows,False,Denmark,1
+0,Android,True,China,1
+0,Macintosh,False,France,1
+0,iOS,True,Singapore,1
+0,Windows,False,Indonesia,1
+0,Windows,False,Netherlands,1
+0,Windows,False,Norway,1
+0,Windows,False,Argentina,1
+0,Android,True,Japan,1
+0,Macintosh,False,Brazil,1
+0,Android,True,Germany,1
+0,Windows,False,Thailand,1
+0,Windows,False,Malaysia,1
+0,Windows,False,Brazil,1
+0,Macintosh,False,Italy,1
+0,Macintosh,False,Saudi Arabia,1
+0,Windows,True,United States,1
+0,iOS,True,Ireland,1
+0,Windows,False,Malaysia,1
+0,Windows,False,Argentina,1
+0,Windows,False,United Kingdom,1
+0,Windows,False,Malaysia,1
+0,Macintosh,False,Ireland,1
+0,Android,True,Belgium,1
+0,Windows,False,Malaysia,1
+0,Windows,False,Netherlands,1
+0,Windows,False,Indonesia,1
+0,Windows,False,Argentina,1
+0,Windows,False,Malaysia,1
+0,iOS,True,United States,1
+0,Windows,False,United Kingdom,1
+0,Windows,False,Germany,1
+0,Windows,False,India,1
+0,Windows,True,India,1
+0,Windows,False,Nigeria,1
+0,Chrome OS,False,Ireland,1
+0,Windows,False,Malaysia,1
+0,Android,True,France,1
+0,Windows,False,Slovenia,1
+0,Windows,False,France,1
+0,Windows,False,Netherlands,1
+0,Windows,False,China,1
+0,iOS,True,China,1
+0,Windows,False,Malaysia,1
+0,Android,True,Hong Kong,1
+0,iOS,True,Ireland,1
+0,iOS,True,Italy,1
+0,Android,True,United Kingdom,1
+0,Windows,False,Malaysia,1
+0,Windows,False,Chile,1
+0,Windows,False,Austria,1
+0,Windows,False,Italy,1
+0,Android,True,Singapore,1
+0,Macintosh,False,Pakistan,1
+0,Windows,False,Ukraine,1
+0,Windows,False,India,1
+0,Windows,False,Malaysia,1
+0,Windows,False,Indonesia,1
+0,Macintosh,False,Sweden,1
+0,Windows,False,United Kingdom,1
+0,Windows,False,Slovenia,1
+0,Macintosh,False,Ireland,1
+0,Windows,False,Brazil,1
+0,Windows,False,Belgium,1
+0,Android,True,Greece,1
+0,iOS,True,Hong Kong,1
+0,Windows,False,Philippines,1
+0,Macintosh,False,United Kingdom,1
+0,iOS,True,Japan,1
+0,Windows,False,Argentina,1
+0,Windows,False,Germany,1
+0,iOS,True,Hong Kong,1
+0,Windows,False,Brazil,1
+0,iOS,True,Peru,1
+0,Windows,False,France,1
+0,Windows,False,Malaysia,1
+0,Windows,False,Argentina,1
+0,Windows,False,United Kingdom,1
+0,Windows,False,Taiwan,1
+0,Macintosh,False,Singapore,1
+0,Windows,False,New Zealand,1
+0,Windows,False,Russia,1
+0,Windows,False,Malaysia,1
+0,Windows,False,Malaysia,1
+0,Android,True,Mexico,1
+0,Linux,False,Russia,1
+0,Chrome OS,False,Philippines,1
+0,Windows,False,Belgium,1
+0,Windows,False,Slovenia,1
+0,Windows,False,Italy,1
+0,Android,True,France,1
+0,Linux,False,Italy,1
+0,Macintosh,False,Switzerland,1
+0,Windows,False,Russia,1
+0,Windows,False,Malaysia,1
+0,Windows,False,Japan,1
+0,Windows,False,India,1
+0,Android,True,United States,1
+0,Macintosh,False,Nigeria,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,Taiwan,1
+0,iOS,True,Japan,1
+0,Windows,False,United States,1
+0,Windows,False,Belgium,1
+0,Windows,False,Vietnam,1
+0,Macintosh,False,United States,1
+0,Android,True,Germany,1
+0,Macintosh,False,Bulgaria,1
+0,Windows,False,Russia,1
+0,iOS,True,United States,1
+0,Windows,False,Turkey,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Macintosh,False,Sweden,1
+0,Windows,False,Japan,1
+0,Windows,False,France,1
+0,Macintosh,False,Estonia,1
+0,Android,True,Italy,1
+0,Windows,False,Malaysia,1
+0,Linux,False,Sweden,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,Malaysia,1
+0,Android,True,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,Turkey,1
+0,Macintosh,False,South Africa,1
+0,Macintosh,False,Ireland,1
+0,Windows,False,United Kingdom,1
+0,iOS,True,United States,1
+0,Windows,False,India,1
+0,Windows,False,Philippines,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,Japan,1
+0,Windows,False,Japan,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,Netherlands,1
+0,Android,True,United States,1
+0,Windows,False,Mexico,1
+0,Windows,False,United States,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,Spain,1
+0,Windows,False,United States,1
+0,Windows,False,United States,1
+0,Macintosh,False,India,1
+0,Macintosh,False,United States,1
+0,Windows,False,India,1
+0,Windows,False,Japan,1
+0,Linux,False,Ireland,1
+0,Windows,False,Japan,1
+0,Macintosh,False,India,1
+0,Windows,False,Malaysia,1
+0,Macintosh,False,India,1
+0,Windows,False,Malaysia,1
+0,Windows,False,Malaysia,1
+0,Windows,False,Malaysia,1
+0,Windows,False,Malaysia,1
+0,Windows,False,India,1
+0,Windows,False,Malaysia,1
+0,Android,True,India,1
+0,Android,True,United States,1
+0,Macintosh,False,Ireland,1
+0,Chrome OS,False,United Kingdom,2
+0,Windows,False,Brazil,2
+0,Windows,False,France,2
+0,Macintosh,False,Germany,2
+0,Android,True,United States,2
+0,Windows,False,Greece,2
+0,Windows,False,Ireland,2
+0,Windows,False,Germany,2
+0,iOS,True,France,2
+0,Windows,False,Mexico,2
+0,iOS,True,India,2
+0,Macintosh,False,Indonesia,2
+0,Windows,False,Malaysia,2
+0,Android,True,Philippines,2
+0,iOS,True,Japan,2
+0,Windows,False,United Kingdom,2
+0,Windows,False,Austria,2
+0,Windows,False,France,2
+0,Windows,False,France,2
+0,iOS,True,Germany,2
+0,Android,True,Australia,2
+0,Android,True,Spain,2
+0,Windows,False,Malaysia,1
+0,Windows,False,Mexico,2
+0,Windows,False,Japan,2
+0,Chrome OS,False,France,2
+0,Macintosh,False,Israel,2
+0,Windows,False,Poland,2
+0,iOS,True,Mexico,2
+0,iOS,True,United States,2
+0,iOS,True,Germany,2
+0,Windows,False,Israel,2
+0,Windows,False,United Kingdom,2
+0,Windows,False,Belgium,2
+0,Windows,False,United Kingdom,2
+0,Linux,False,United States,2
+0,Macintosh,False,Mexico,2
+0,Macintosh,False,United States,2
+0,Macintosh,False,United States,2
+0,Android,True,United States,2
+0,Chrome OS,False,United States,2
+0,Windows,False,Italy,2
+0,Windows,False,Taiwan,2
+0,Windows,False,Pakistan,1
+0,Chrome OS,False,United States,2
+0,Android,True,Russia,2
+0,Windows,False,Malaysia,2
+0,Macintosh,False,United States,2
+0,Chrome OS,False,United States,2
+0,Windows,False,United States,2
+0,Linux,False,United States,2
+0,Windows,False,Mexico,2
+0,Macintosh,False,Somalia,2
+0,Macintosh,False,Netherlands,2
+0,Android,True,Romania,1
+0,Android,True,United States,2
+0,Android,True,China,2
+0,iOS,True,United States,1
+0,Windows,False,India,3
+0,Windows,True,United States,3
+0,Macintosh,False,Japan,3
+0,Windows,False,Malaysia,2
+0,Windows,False,Canada,3
+0,Windows,False,United States,3
+0,iOS,True,United States,3
+0,Android,True,United States,3
+0,Macintosh,False,Japan,3
+0,iOS,True,India,3
+0,Linux,False,Canada,3
+0,Android,True,United States,3
+0,Macintosh,False,United States,3
+0,Windows,False,Brazil,3
+0,Android,True,United States,3
+0,Windows,False,China,3
+0,iOS,True,United States,3
+0,Windows,False,Taiwan,3
+0,iOS,True,Poland,3
+0,Macintosh,False,United States,3
+0,Windows,False,Taiwan,3
+0,Linux,False,United States,3
+0,Macintosh,False,Taiwan,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,Germany,3
+0,Windows,False,Austria,3
+0,Chrome OS,False,United States,3
+0,Windows,False,Germany,3
+0,Linux,False,United States,3
+0,iOS,True,United States,4
+0,Windows,False,Russia,4
+0,iOS,True,Spain,2
+0,Windows,False,Indonesia,4
+0,iOS,True,United States,4
+0,Chrome OS,False,United Kingdom,4
+0,Windows,False,Chile,4
+0,Windows,False,Malaysia,4
+0,Windows,False,Hong Kong,4
+0,Windows,False,Mexico,4
+0,Windows,False,Japan,4
+0,iOS,True,United States,3
+0,iOS,True,United States,3
+0,Windows,False,Netherlands,3
+0,Windows,False,United States,3
+0,iOS,True,United States,3
+0,Windows,False,Argentina,3
+0,Windows,False,China,3
+0,Macintosh,False,United Kingdom,3
+0,iOS,True,United Kingdom,3
+0,Windows,False,Canada,3
+0,Windows,False,Colombia,3
+0,iOS,True,United States,3
+0,Android,True,United States,3
+0,Windows,False,China,3
+0,Android,True,Germany,3
+0,Android,True,United States,3
+0,Android,True,United States,3
+0,Android,True,United States,3
+0,Macintosh,False,Canada,3
+0,Linux,False,United States,3
+0,Macintosh,False,United States,3
+0,Android,True,United States,4
+0,Android,True,United States,4
+0,Android,True,United States,4
+0,Windows,False,Belarus,4
+0,Chrome OS,False,United States,2
+0,Macintosh,False,Australia,2
+0,Windows,False,United States,2
+0,Windows,False,United Kingdom,2
+0,Windows,False,Japan,2
+0,Windows,False,Hong Kong,2
+0,Macintosh,False,Poland,2
+0,Windows,False,Japan,2
+0,Windows,False,Norway,2
+0,Macintosh,False,Canada,2
+0,Windows,False,India,2
+0,Windows,False,Japan,2
+0,Windows,False,Singapore,2
+0,iOS,True,United Kingdom,2
+0,iOS,True,United States,2
+0,Linux,False,Sweden,2
+0,iOS,True,United States,3
+0,Android,True,United States,3
+0,iOS,True,Brazil,3
+0,Macintosh,False,Mexico,3
+0,Android,True,India,3
+0,Linux,False,United States,3
+0,Android,True,United States,3
+0,Macintosh,False,United States,3
+0,Android,True,United States,3
+0,Android,True,United States,3
+0,Android,True,United States,3
+0,Android,True,United States,3
+0,Macintosh,False,United States,3
+0,iOS,True,United States,4
+0,Linux,False,Brazil,3
+0,Macintosh,False,India,3
+0,iOS,True,United States,3
+0,Windows,False,Russia,3
+0,Android,True,United States,3
+0,Windows,False,India,3
+0,Windows,False,Canada,3
+0,Windows,False,France,3
+0,Android,True,India,3
+0,Windows,False,Philippines,3
+0,Windows,False,India,3
+0,Linux,False,Sweden,3
+0,Macintosh,False,Romania,4
+0,Android,True,United States,4
+0,Macintosh,False,United States,5
+0,Android,True,Antigua & Barbuda,5
+0,Linux,False,United States,5
+0,Macintosh,False,United States,5
+0,Windows,False,Indonesia,5
+0,Windows,False,India,5
+0,(not set),True,India,1
+0,Windows,False,Russia,1
+0,Linux,False,United States,1
+0,Windows,False,Brazil,1
+0,Windows,False,Kazakhstan,1
+0,iOS,True,Poland,1
+0,Windows,False,Germany,1
+0,Windows,False,Lithuania,1
+0,Windows,False,South Korea,1
+0,iOS,True,New Zealand,1
+0,Windows,False,Denmark,1
+0,Android,True,Uzbekistan,1
+0,Windows,False,Ireland,1
+0,Windows,False,Vietnam,1
+0,Windows,False,United Kingdom,1
+0,Windows,False,United States,1
+0,Android,True,Serbia,1
+0,Windows,False,Slovakia,1
+0,Linux,False,Ukraine,1
+0,Android,True,Georgia,1
+0,Windows,False,South Korea,1
+0,Windows,False,Panama,1
+0,iOS,True,Vietnam,1
+0,Windows,False,Romania,1
+0,Android,True,India,1
+0,Windows,False,China,1
+0,Windows,False,Indonesia,1
+0,Windows,False,Pakistan,1
+0,(not set),True,Peru,1
+0,Windows,False,Russia,1
+0,Windows,False,Vietnam,1
+0,Android,True,Ecuador,1
+0,Windows,False,Estonia,1
+0,Windows,False,South Korea,1
+0,Windows,False,Romania,1
+0,(not set),False,United States,1
+0,Windows,False,Slovenia,1
+0,Windows,False,Vietnam,1
+0,iOS,True,Saudi Arabia,1
+0,Windows,False,Ireland,1
+0,Windows,False,China,1
+0,Android,True,Bangladesh,1
+0,Android,True,Bulgaria,1
+0,Android,True,Georgia,1
+0,iOS,True,Switzerland,1
+0,Windows,False,Serbia,1
+0,Windows,False,Bosnia & Herzegovina,1
+0,Windows,False,Romania,1
+0,iOS,True,Norway,1
+0,Android,True,Georgia,1
+0,Android,True,Pakistan,1
+0,Android,True,United Kingdom,1
+0,Android,True,Spain,1
+0,Windows,False,Indonesia,1
+0,Windows,False,Hong Kong,1
+0,Windows,False,Sweden,1
+0,Windows,False,Bosnia & Herzegovina,1
+0,Android,True,Bulgaria,1
+0,Windows,False,Czechia,1
+0,Windows,False,Argentina,1
+0,Windows,False,Netherlands,1
+0,Windows,False,Romania,1
+0,(not set),True,Pakistan,1
+0,Android,True,Thailand,1
+0,Windows,False,Greece,1
+0,Windows,False,Poland,1
+0,Android,True,Romania,1
+0,iOS,True,South Korea,1
+0,Windows,False,Pakistan,1
+0,iOS,True,Netherlands,1
+0,Macintosh,False,Austria,1
+0,iOS,True,United Arab Emirates,1
+0,iOS,True,Netherlands,1
+0,Android,True,Bangladesh,1
+0,Android,True,Afghanistan,1
+0,Windows,True,Indonesia,1
+0,Windows,False,Romania,1
+0,Windows,False,Bulgaria,1
+0,Windows,False,Japan,1
+0,Android,True,India,1
+0,Windows,False,Sweden,1
+0,Windows,False,Vietnam,1
+0,Android,True,Indonesia,1
+0,Android,True,Bulgaria,1
+0,Android,True,Turkey,1
+0,(not set),True,Nigeria,1
+0,Windows,False,New Zealand,1
+0,Android,True,Argentina,1
+0,Macintosh,False,United Arab Emirates,1
+0,(not set),False,Belgium,1
+0,Android,True,Argentina,1
+0,Android,True,Georgia,1
+0,Android,True,Argentina,1
+0,Windows,False,Indonesia,1
+0,Android,True,Italy,1
+0,Android,True,India,1
+0,iOS,True,South Korea,1
+0,Windows,False,Israel,1
+0,Windows,False,China,1
+0,Android,True,Pakistan,1
+0,Windows,False,Japan,1
+0,iOS,True,France,1
+0,Windows,False,Saudi Arabia,1
+0,iOS,True,France,1
+0,Windows,False,Singapore,1
+0,Windows,False,Netherlands,1
+0,Windows,False,Vietnam,1
+0,iOS,True,Japan,1
+0,Macintosh,False,United States,1
+0,Windows,False,Singapore,1
+0,Macintosh,False,Poland,1
+0,Android,True,Indonesia,1
+0,Windows,False,Singapore,1
+0,Windows,False,Russia,1
+0,Android,True,Italy,1
+0,iOS,True,Poland,1
+0,Android,True,Netherlands,1
+0,Windows,False,Netherlands,1
+0,Windows,False,Italy,1
+0,Windows,False,Vietnam,1
+0,Windows,False,Slovakia,1
+0,Android,True,Indonesia,1
+0,Windows,False,Finland,1
+0,Windows,False,Slovakia,1
+0,Windows,False,Czechia,1
+0,Chrome OS,False,Netherlands,1
+0,Android,True,India,1
+0,Macintosh,False,Vietnam,1
+0,Macintosh,False,Vietnam,1
+0,Android,True,India,1
+0,Windows,False,Peru,1
+0,Windows,False,Japan,1
+0,Windows,False,Egypt,1
+0,Windows,False,United States,1
+0,Macintosh,False,Brazil,1
+0,Windows,False,Vietnam,1
+0,Windows,False,Thailand,1
+0,Windows,False,Argentina,1
+0,Windows,False,Ukraine,1
+0,Windows,False,Turkey,1
+0,Android,True,Pakistan,1
+0,Windows,False,France,1
+0,Windows,False,Belgium,1
+0,Windows,False,Malaysia,1
+0,Windows,False,Spain,1
+0,Android,True,United States,1
+0,Windows,False,Russia,1
+0,Android,True,India,1
+0,Linux,False,Chile,1
+0,Macintosh,False,Spain,1
+0,Windows,False,Vietnam,1
+0,Windows,False,Poland,1
+0,Windows,False,Egypt,1
+0,Windows,False,Algeria,1
+0,Windows,False,Turkey,1
+0,Windows,False,Italy,1
+0,Windows,False,Japan,1
+0,Windows,False,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,Italy,1
+0,Macintosh,False,Russia,1
+0,Windows,False,Egypt,1
+0,Windows,False,Brazil,1
+0,Windows,False,Poland,1
+0,Windows,False,United States,1
+0,Macintosh,False,India,1
+0,(not set),True,India,1
+0,Android,True,Azerbaijan,1
+0,Windows,True,Brazil,1
+0,Windows,False,Japan,1
+0,Windows,False,United Kingdom,1
+0,Windows,False,France,1
+0,Windows,False,Egypt,1
+0,Linux,False,Russia,1
+0,Android,True,Germany,1
+0,Android,True,India,1
+0,Android,True,France,1
+0,Windows,False,Poland,1
+0,Windows,False,Sweden,1
+0,Android,True,Spain,1
+0,Windows,False,Japan,1
+0,Windows,False,Argentina,1
+0,Windows,False,Austria,1
+0,Windows,False,India,1
+0,Android,True,Ecuador,1
+0,Windows,False,Germany,1
+0,Windows,False,Turkey,1
+0,Macintosh,False,Germany,1
+0,Windows,False,Vietnam,1
+0,Windows,False,Turkey,1
+0,Android,True,Argentina,1
+0,Windows,False,Brazil,1
+0,Android,True,Poland,1
+0,(not set),True,Indonesia,1
+0,Windows,False,United States,1
+0,Windows,False,Italy,1
+0,Windows,False,Japan,1
+0,Android,True,Italy,1
+0,Windows,False,United States,1
+0,Windows,False,France,1
+0,(not set),True,Nigeria,1
+0,Android,True,South Korea,1
+0,iOS,True,United States,1
+0,Android,True,Japan,1
+0,Windows,False,United States,1
+0,Android,True,Germany,1
+0,Windows,False,Mexico,1
+0,Windows,False,United States,1
+0,Windows,True,Japan,1
+0,Windows,False,Mexico,1
+0,Windows,False,Pakistan,1
+0,Windows,False,Russia,1
+0,Windows,False,Russia,1
+0,(not set),True,Cameroon,1
+0,Linux,False,Belarus,1
+0,Windows,False,Armenia,1
+0,Android,True,India,1
+0,Windows,False,United States,1
+0,Android,True,Saudi Arabia,1
+0,Android,True,Mexico,1
+0,Windows,False,India,1
+0,Windows,False,United States,1
+0,Android,True,United States,1
+0,Windows,False,Indonesia,1
+0,Windows,False,Japan,1
+0,Android,True,Brazil,1
+0,Windows,False,United States,1
+0,Android,True,Australia,1
+0,Windows,False,Sweden,1
+0,Windows,False,Egypt,1
+0,Windows,False,Turkey,1
+0,Windows,False,United States,1
+0,Windows,False,Colombia,1
+0,iOS,True,Pakistan,1
+0,Windows,False,Ukraine,1
+0,Windows,False,Sweden,1
+0,Windows,False,India,1
+0,Windows,False,Botswana,1
+0,Windows,False,France,1
+0,Windows,False,Chile,1
+0,Android,True,Brazil,1
+0,Windows,False,United States,1
+0,Linux,False,Poland,1
+0,Windows,False,Brazil,1
+0,Macintosh,False,Mexico,1
+0,Android,True,Brazil,1
+0,Macintosh,False,Germany,1
+0,Android,True,Australia,2
+0,Android,True,Spain,2
+0,Android,True,United Kingdom,2
+0,iOS,True,United Kingdom,2
+0,iOS,True,Netherlands,2
+0,iOS,True,Philippines,2
+0,iOS,True,United Kingdom,2
+0,iOS,True,Belgium,2
+0,iOS,True,United Kingdom,2
+0,iOS,True,New Zealand,2
+0,iOS,True,United Kingdom,2
+0,Windows,False,Ukraine,2
+0,iOS,True,Japan,2
+0,Android,True,India,2
+0,iOS,True,United Kingdom,2
+0,Chrome OS,False,Germany,2
+0,Android,True,Germany,2
+0,Windows,False,United States,2
+0,Windows,False,United States,2
+0,Windows,False,Poland,2
+0,Windows,False,Brazil,2
+0,Windows,False,Indonesia,2
+0,Windows,True,United States,2
+0,Windows,False,India,2
+0,Macintosh,False,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,Colombia,2
+0,Android,True,Romania,2
+0,iOS,True,United States,2
+0,Android,True,Sri Lanka,2
+0,iOS,True,United States,2
+0,Windows,False,United States,2
+0,Android,True,United States,2
+0,Android,True,Austria,2
+0,Windows,False,Taiwan,2
+0,Windows,False,United States,2
+0,Windows,False,Taiwan,2
+0,Windows,False,Egypt,2
+0,(not set),True,Tanzania,3
+0,Android,True,United Kingdom,3
+0,Android,True,France,3
+0,Macintosh,False,Nigeria,3
+0,iOS,True,Australia,3
+0,Windows,False,United States,3
+0,iOS,True,United Kingdom,3
+0,Android,True,Mexico,3
+0,Android,True,Japan,3
+0,Windows,False,United States,3
+0,Windows,False,Sweden,3
+0,Windows,False,United States,3
+0,Windows,False,Turkey,3
+0,Windows,False,Vietnam,3
+0,(not set),True,Côte d’Ivoire,2
+0,Windows,True,United States,2
+0,Windows,False,Germany,2
+0,Macintosh,False,Spain,2
+0,Android,True,United Kingdom,2
+0,Windows,False,United States,2
+0,Windows,False,United Kingdom,2
+0,Macintosh,False,Netherlands,2
+0,Android,True,United States,2
+0,Windows,False,Germany,2
+0,Windows,False,United Kingdom,2
+0,Android,True,Poland,2
+0,iOS,True,Netherlands,2
+0,Android,True,Colombia,2
+0,Android,True,Germany,2
+0,Android,True,Georgia,2
+0,iOS,True,Canada,2
+0,iOS,True,United Kingdom,2
+0,Chrome OS,False,Canada,2
+0,Macintosh,False,Australia,2
+0,Windows,False,Pakistan,2
+0,Windows,False,Philippines,2
+0,Android,True,Singapore,2
+0,Windows,False,Mexico,2
+0,Macintosh,False,United States,1
+0,Windows,False,Netherlands,2
+0,Android,True,South Korea,2
+0,Samsung,True,India,2
+0,Windows,False,India,2
+0,Windows,False,United Kingdom,2
+0,Android,True,United States,2
+0,Macintosh,False,Ireland,2
+0,Windows,False,India,2
+0,Macintosh,False,Australia,2
+0,Windows,False,United Kingdom,2
+0,Macintosh,False,Colombia,2
+0,Macintosh,False,Ireland,2
+0,Windows,False,Germany,2
+0,Windows,False,Germany,2
+0,Android,True,Russia,2
+0,Android,True,Chile,1
+0,Android,True,India,2
+0,Windows,False,India,2
+0,Linux,False,Colombia,2
+0,Windows,False,United Kingdom,2
+0,(not set),True,Romania,2
+0,Windows,False,Vietnam,2
+0,Linux,False,Colombia,1
+0,Windows,False,United States,3
+0,Chrome OS,False,Netherlands,3
+0,Windows,False,Germany,3
+0,Android,True,Canada,3
+0,(not set),True,India,3
+0,Android,True,India,3
+0,Android,True,United States,3
+0,Android,True,India,3
+0,Android,True,United Kingdom,3
+0,Android,True,Malaysia,3
+0,Windows,False,United States,3
+0,Chrome OS,False,United Kingdom,3
+0,iOS,True,Canada,3
+0,Android,True,United States,3
+0,Windows,False,Hungary,3
+0,Macintosh,False,United Kingdom,3
+0,Windows,False,Philippines,3
+0,Windows,False,Australia,3
+0,iOS,True,Singapore,3
+0,iOS,True,Singapore,3
+0,Android,True,Nigeria,3
+0,Windows,False,Greece,3
+0,Windows,False,United States,3
+0,Android,True,Canada,3
+0,Android,True,Bangladesh,3
+0,Windows,False,Thailand,3
+0,Windows,False,United States,3
+0,Macintosh,False,France,3
+0,Windows,False,Pakistan,3
+0,Windows,False,India,4
+0,iOS,True,United States,4
+0,Windows,False,United States,4
+0,Windows,False,Israel,4
+0,Macintosh,False,United States,4
+0,Android,True,United States,4
+0,Windows,False,Indonesia,4
+0,iOS,True,India,5
+0,Chrome OS,False,United States,5
+0,Windows,False,United States,5
+0,Windows,False,United States,5
+0,Android,True,India,5
+0,Windows,False,Philippines,5
+0,Macintosh,False,Peru,5
+0,Android,True,United States,5
+0,Windows,False,Mexico,5
+0,Windows,False,Austria,5
+0,Linux,False,Russia,1
+0,Macintosh,False,United States,1
+0,Android,True,Spain,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Macintosh,False,United States,1
+0,Android,True,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,Austria,1
+0,Android,True,Germany,1
+0,Linux,False,Colombia,1
+0,Macintosh,False,Ireland,1
+0,Android,True,Sri Lanka,1
+0,Macintosh,False,South Korea,1
+0,Chrome OS,False,United States,1
+0,Android,True,Costa Rica,1
+0,Windows,False,India,1
+0,Linux,False,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,Ukraine,1
+0,iOS,True,India,1
+0,Android,True,Hong Kong,1
+0,Macintosh,False,United States,1
+0,Android,True,United States,1
+0,Android,True,Hong Kong,1
+0,Android,True,Taiwan,1
+0,Macintosh,False,Pakistan,1
+0,Macintosh,False,Ireland,1
+0,Windows,False,Brazil,1
+0,Windows,False,Spain,1
+0,Windows,False,India,1
+0,iOS,True,China,1
+0,Linux,False,United States,1
+0,Android,True,United States,1
+0,Windows,False,Hungary,1
+0,Macintosh,False,Spain,1
+0,Android,True,Tunisia,1
+0,Windows,False,Malaysia,1
+0,Windows,False,Mexico,1
+0,Android,True,Morocco,1
+0,Windows,False,France,1
+0,Android,True,United States,1
+0,Windows,False,Malaysia,1
+0,iOS,True,United States,1
+0,Windows,False,Argentina,1
+0,Macintosh,False,United States,1
+0,Windows,False,United States,1
+0,Chrome OS,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Android,True,United States,1
+0,Windows,False,United States,1
+0,Windows,False,Taiwan,1
+0,Macintosh,False,United States,1
+0,Windows,False,India,1
+0,Windows,False,United States,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,Brazil,1
+0,Android,True,Pakistan,1
+0,Windows,False,Costa Rica,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Chrome OS,False,Ireland,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,Argentina,1
+0,Macintosh,False,United States,1
+0,Android,True,United States,1
+0,Chrome OS,False,United States,1
+0,Windows,False,Taiwan,1
+0,Android,True,United States,1
+0,Windows,False,United States,1
+0,Android,True,Algeria,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,Chrome OS,False,Ireland,1
+0,Android,True,Germany,1
+0,Windows,False,Ecuador,1
+0,Windows,False,Taiwan,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,Android,True,United States,1
+0,Linux,False,United States,1
+0,Windows,False,United States,1
+0,Windows,False,Ukraine,1
+0,Linux,False,United States,1
+0,Windows,False,United States,1
+0,iOS,True,Italy,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,United Kingdom,1
+0,Android,True,United States,1
+0,Android,True,Italy,1
+0,iOS,True,United States,1
+0,Windows,False,Peru,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,South Africa,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,Taiwan,1
+0,iOS,True,Japan,1
+0,Windows,False,Taiwan,1
+0,iOS,True,United States,1
+0,iOS,True,Japan,1
+0,Macintosh,False,Kenya,1
+0,Windows,False,Russia,1
+0,Windows,False,India,1
+0,iOS,True,United States,1
+0,Windows,False,Indonesia,1
+0,iOS,True,United States,1
+0,Android,True,United States,1
+0,Macintosh,False,Canada,1
+0,Chrome OS,False,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Chrome OS,False,United States,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United Kingdom,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,Canada,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Linux,False,United States,1
+0,Macintosh,False,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Windows,False,United States,1
+0,Windows,False,Japan,1
+0,iOS,True,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,Uruguay,1
+0,Windows,False,Uruguay,1
+0,Linux,False,United States,1
+0,Linux,False,United States,1
+0,Android,True,France,1
+0,iOS,True,United States,1
+0,Chrome OS,False,United States,1
+0,Android,True,United States,1
+0,Chrome OS,False,United States,1
+0,Windows,False,Canada,1
+0,Chrome OS,False,United States,1
+0,iOS,True,United States,1
+0,Android,True,Italy,1
+0,iOS,True,Australia,1
+0,Android,True,Germany,1
+0,Android,True,India,1
+0,Android,True,India,1
+0,Macintosh,False,Brazil,1
+0,Android,True,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,Colombia,1
+0,iOS,True,Poland,1
+0,Windows,False,United States,1
+0,Macintosh,False,Singapore,1
+0,Macintosh,False,Japan,1
+0,Android,True,South Korea,1
+0,iOS,True,Australia,1
+0,Macintosh,False,United States,1
+0,Android,True,United States,1
+0,iOS,True,United Kingdom,1
+0,Windows,False,United States,1
+0,Macintosh,False,Taiwan,1
+0,Android,True,Colombia,1
+0,iOS,True,Singapore,1
+0,Macintosh,False,United States,1
+0,Windows,False,Denmark,1
+0,Macintosh,False,United States,1
+0,Linux,False,Malaysia,1
+0,Macintosh,False,India,1
+0,Android,True,Austria,1
+0,Windows,False,Canada,1
+0,Android,True,Argentina,1
+0,Windows,False,Peru,1
+0,Windows,False,Turkey,1
+0,Windows,False,Greece,1
+0,Android,True,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,Turkey,1
+0,iOS,True,United States,1
+0,Android,True,United States,1
+0,(not set),True,Vietnam,1
+0,Android,True,Afghanistan,1
+0,Windows,False,Italy,1
+0,iOS,True,Japan,1
+0,Android,True,Iraq,1
+0,Android,True,United States,1
+0,Windows,False,Turkey,1
+0,Android,True,Germany,1
+0,Android,True,Bangladesh,1
+0,Windows,False,France,1
+0,Android,True,Mexico,1
+0,Android,True,Indonesia,1
+0,Macintosh,False,Germany,1
+0,Android,True,United Arab Emirates,1
+0,Windows,False,Italy,1
+0,Android,True,Guam,1
+0,Android,True,United States,1
+0,Android,True,Romania,1
+0,Android,True,Peru,1
+0,Windows,False,United Kingdom,1
+0,Android,True,United States,1
+0,Windows,False,France,1
+0,Android,True,United States,1
+0,Linux,False,United States,1
+0,Windows,False,Turkey,1
+0,Windows,False,United States,1
+0,Android,True,India,1
+0,(not set),True,India,1
+0,Windows,False,Russia,1
+0,Windows,False,Indonesia,1
+0,Windows,False,Spain,1
+0,Android,True,United States,1
+0,Android,True,India,1
+0,Macintosh,False,France,1
+0,Android,True,United States,1
+0,Windows,False,Belgium,1
+0,Chrome OS,False,United States,1
+0,Android,True,United States,1
+0,Android,True,Philippines,1
+0,Android,True,Greece,1
+0,Windows,False,Germany,1
+0,Macintosh,False,United States,1
+0,Android,True,United States,1
+0,Linux,False,United States,1
+0,Windows,False,United States,1
+0,Windows,False,United States,1
+0,Windows,False,Italy,1
+0,Windows,False,Thailand,1
+0,Android,True,India,1
+0,Windows,False,United States,1
+0,Macintosh,False,Taiwan,1
+0,iOS,True,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,United States,1
+0,Android,True,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,Israel,1
+0,Android,True,Taiwan,1
+0,Android,True,Taiwan,1
+0,Android,True,Germany,1
+0,Macintosh,False,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,Taiwan,1
+0,Windows,False,India,2
+0,Windows,False,Malaysia,2
+0,Windows,False,India,2
+0,Android,True,Malaysia,2
+0,Macintosh,False,United States,2
+0,Android,True,Singapore,2
+0,Macintosh,False,Netherlands,2
+0,Windows,False,Taiwan,2
+0,Android,True,Germany,2
+0,Windows,False,Taiwan,2
+0,Macintosh,False,Switzerland,2
+0,Windows,False,Puerto Rico,2
+0,Windows,False,Peru,2
+0,Android,True,Thailand,2
+0,Macintosh,False,Taiwan,2
+0,Macintosh,False,India,2
+0,Windows,False,United States,2
+0,iOS,True,Japan,1
+0,iOS,True,United States,2
+0,Windows,False,United States,2
+0,iOS,True,United States,2
+0,Windows,False,United Kingdom,2
+0,Macintosh,False,United States,2
+0,Windows,False,Ukraine,2
+0,Windows,True,United States,2
+0,Windows,False,Malaysia,2
+0,iOS,True,United States,2
+0,Macintosh,False,United States,2
+0,iOS,True,Japan,2
+0,Windows,False,United States,2
+0,Windows,False,United States,2
+0,Windows,False,United States,2
+0,Macintosh,False,United States,2
+0,Linux,False,United States,2
+0,Macintosh,False,United States,2
+0,Windows,False,Malaysia,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,Windows,False,Taiwan,2
+0,Windows,False,Germany,2
+0,Linux,False,United States,2
+0,Android,True,United States,2
+0,Chrome OS,False,United States,2
+0,iOS,True,United States,2
+0,Windows,False,Indonesia,2
+0,Macintosh,False,France,2
+0,Windows,False,United States,2
+0,Chrome OS,False,United States,2
+0,Macintosh,False,United States,2
+0,Macintosh,False,Poland,2
+0,Linux,False,United States,2
+0,Android,True,France,1
+0,Android,True,United States,2
+0,(not set),True,Nigeria,2
+0,Android,True,Laos,2
+0,Macintosh,False,Canada,2
+0,Android,True,United States,2
+0,Windows,False,Canada,3
+0,Windows,False,Taiwan,3
+0,Android,True,India,1
+0,Windows,False,Argentina,1
+0,Android,True,Bangladesh,3
+0,Macintosh,False,United States,3
+0,iOS,True,United States,3
+0,Macintosh,False,United States,3
+0,Windows,False,Malaysia,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,Canada,3
+0,Android,True,United States,3
+0,Windows,False,France,3
+0,iOS,True,United States,3
+0,Windows,False,India,3
+0,Windows,False,Malaysia,3
+0,Macintosh,False,United States,3
+0,Windows,False,Malaysia,3
+0,Android,True,United States,3
+0,iOS,True,(not set),3
+0,Windows,False,United States,3
+0,Linux,False,Ireland,3
+0,Windows,False,United States,3
+0,Macintosh,False,United States,2
+0,Android,True,United Kingdom,2
+0,Android,True,India,2
+0,iOS,True,France,2
+0,Linux,False,Brazil,3
+0,Android,True,United States,3
+0,Android,True,United States,3
+0,Macintosh,False,Canada,3
+0,Windows,False,Spain,1
+0,Android,True,Germany,3
+0,Windows,False,Romania,3
+0,Windows,False,United States,3
+0,Windows,False,Venezuela,3
+0,Macintosh,False,New Zealand,3
+0,Android,True,Thailand,2
+0,iOS,True,United States,3
+0,Linux,False,United States,3
+0,Linux,False,United States,4
+0,Macintosh,False,United States,4
+0,Windows,False,United Kingdom,4
+0,Android,True,Thailand,4
+0,Chrome OS,False,India,2
+0,Windows,False,China,2
+0,Macintosh,False,United States,4
+0,Chrome OS,False,United States,4
+0,Macintosh,False,United States,4
+0,Windows,False,Panama,2
+0,Windows,False,Germany,4
+0,Windows,False,Spain,4
+0,Macintosh,False,United States,2
+0,Android,True,United States,3
+0,Macintosh,False,Taiwan,4
+0,Windows,False,United States,4
+0,Android,True,United States,4
+0,Macintosh,False,United States,4
+0,Macintosh,False,United States,4
+0,Macintosh,False,Austria,4
+0,Macintosh,False,United Kingdom,4
+0,Macintosh,False,Maldives,4
+0,Windows,False,United States,4
+0,Linux,False,United States,4
+0,Chrome OS,False,United States,4
+0,Windows,False,Venezuela,4
+0,iOS,True,United States,4
+0,Macintosh,False,United States,4
+0,Android,True,United States,5
+0,Macintosh,False,United States,5
+0,iOS,True,United Kingdom,5
+0,Android,True,United States,5
+0,Android,True,United States,5
+0,Macintosh,False,United States,4
+0,Macintosh,False,United States,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,United States,5
+0,Macintosh,False,United States,5
+0,Macintosh,False,United States,5
+0,Windows,False,Norway,5
+0,iOS,True,United States,5
+1,Linux,False,United States,5
+0,Windows,False,Malaysia,5
+0,Windows,False,Malaysia,6
+0,Windows,False,United States,6
+0,Windows,False,France,6
+0,Macintosh,False,India,8
+0,Macintosh,False,United States,6
+0,Macintosh,False,United States,4
+0,Android,True,Germany,5
+0,Windows,False,India,8
+0,Macintosh,False,United States,6
+0,Macintosh,False,United States,4
+0,Android,True,Russia,8
+0,Windows,False,Malaysia,9
+0,Macintosh,False,United States,9
+0,iOS,True,Vietnam,7
+0,Windows,False,United States,8
+0,iOS,True,United States,9
+0,Android,True,United States,8
+0,Macintosh,False,United States,6
+0,Macintosh,False,United States,7
+0,iOS,True,United States,7
+0,Windows,False,Japan,9
+0,Android,True,Sri Lanka,5
+0,Macintosh,False,United States,9
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,Germany,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,Malaysia,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,iOS,True,Canada,1
+0,Windows,False,Canada,1
+0,Windows,False,Canada,1
+0,Android,True,Canada,1
+0,Macintosh,False,Canada,1
+0,Android,True,Canada,1
+0,Macintosh,False,Canada,1
+0,iOS,True,Canada,1
+0,Windows,False,Canada,1
+0,Macintosh,False,Canada,1
+0,Android,True,Canada,1
+0,Windows,False,Canada,1
+0,iOS,True,Canada,1
+0,iOS,True,Canada,1
+0,iOS,True,Canada,1
+0,Macintosh,False,Canada,1
+0,Android,True,Canada,1
+0,Macintosh,False,Canada,1
+0,iOS,True,Canada,1
+0,Windows,False,Canada,1
+0,Macintosh,False,Germany,1
+0,Macintosh,False,Germany,1
+0,Macintosh,False,Germany,1
+0,Windows,False,Germany,1
+0,Macintosh,False,Germany,1
+0,Macintosh,False,Germany,1
+0,Windows,False,Germany,1
+0,Windows,False,Germany,1
+0,Linux,False,Germany,1
+0,iOS,True,Germany,1
+0,iOS,True,Germany,1
+0,Windows,False,Germany,1
+0,Android,True,Germany,1
+0,Windows,False,Germany,1
+0,Macintosh,False,Germany,1
+0,Windows,False,Germany,1
+0,Windows,False,Germany,1
+0,Windows,False,Germany,1
+0,Windows,False,Germany,1
+0,Windows,False,Germany,1
+0,Chrome OS,False,Spain,1
+0,Macintosh,False,Spain,1
+0,Windows,False,Spain,1
+0,iOS,True,Spain,1
+0,Macintosh,False,Spain,1
+0,Chrome OS,False,Spain,1
+0,Windows,False,Spain,1
+0,Macintosh,False,Spain,1
+0,Android,True,Spain,1
+0,Macintosh,False,Spain,1
+0,iOS,True,Spain,1
+0,Macintosh,False,Colombia,1
+0,Android,True,United States,1
+0,Windows,False,United States,1
+0,Windows,False,Malaysia,1
+0,Macintosh,False,Pakistan,1
+0,Macintosh,False,United States,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,United States,1
+0,Chrome OS,False,United States,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,United States,1
+0,Linux,False,Colombia,1
+0,Macintosh,False,United States,1
+0,Linux,False,United States,1
+0,Windows,False,Malaysia,1
+0,Android,True,United States,1
+0,Macintosh,False,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Windows,False,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Windows,False,Egypt,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,Android,True,Nigeria,1
+0,Linux,False,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,United States,1
+0,Android,True,United States,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,Linux,False,United States,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,Android,True,United States,1
+0,Windows,False,United States,1
+0,Linux,False,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Linux,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Chrome OS,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Android,True,United States,1
+0,Windows,False,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,Chrome OS,False,United States,1
+0,Windows,False,United States,1
+0,Windows,False,United States,1
+0,Windows,False,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,United States,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,Cyprus,1
+0,Macintosh,False,United States,1
+0,Windows,False,United States,1
+0,Windows,False,United States,1
+0,Windows,False,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,Morocco,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Chrome OS,False,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,Malaysia,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,Ecuador,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,Android,True,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,Android,True,United States,1
+0,iOS,True,Kuwait,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,Indonesia,1
+0,Android,True,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,Chrome OS,False,United States,1
+0,iOS,True,United States,1
+0,Chrome OS,False,Northern Mariana Islands,1
+0,Android,True,China,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,United States,1
+0,Chrome OS,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Chrome OS,False,United States,1
+0,Windows,False,United States,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,Malaysia,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Android,True,Morocco,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Chrome OS,False,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Macintosh,False,United States,1
+0,iOS,True,United States,1
+0,Android,True,Pakistan,1
+0,Windows,False,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,Myanmar (Burma),1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,Macintosh,False,Costa Rica,1
+0,Macintosh,False,United States,1
+0,Windows,False,United States,1
+0,Windows,False,United States,1
+0,Windows,False,United States,1
+0,Windows,False,Netherlands,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Chrome OS,False,United States,1
+0,Linux,False,United States,1
+0,Windows,False,United States,1
+0,Android,True,United States,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Windows,False,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Windows,False,United States,1
+0,Android,True,United States,1
+0,iOS,True,United States,1
+0,Windows,False,United States,1
+0,Linux,False,United States,2
+0,Windows,False,United States,2
+0,Linux,False,United States,2
+0,Windows,False,United States,2
+0,Macintosh,False,United States,2
+0,Windows,False,United States,2
+0,Macintosh,False,United States,2
+0,Windows,False,United States,2
+0,Windows,False,United States,2
+0,Macintosh,False,United States,2
+0,Macintosh,False,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,Android,True,United States,2
+0,iOS,True,United States,2
+0,Chrome OS,False,United States,2
+0,iOS,True,United States,2
+0,Macintosh,False,United States,2
+0,Windows,False,United States,2
+0,Macintosh,False,United States,2
+0,Macintosh,False,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,Android,True,United States,2
+0,Windows,False,United States,2
+0,Windows,False,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,Android,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,Dominican Republic,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,Saudi Arabia,2
+0,Android,True,United States,2
+0,Windows,False,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,Chrome OS,False,United States,2
+0,Macintosh,False,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,Android,True,United States,2
+0,Windows,False,United States,2
+0,Windows,False,Qatar,2
+0,iOS,True,United States,2
+0,Android,True,Peru,2
+0,Macintosh,False,United States,2
+0,iOS,True,United States,2
+0,Macintosh,False,United States,2
+0,Macintosh,False,United States,2
+0,Macintosh,False,United States,2
+0,iOS,True,United States,2
+0,Macintosh,False,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,2
+0,Windows,False,Panama,2
+0,Windows,False,United States,2
+0,Android,True,United States,2
+0,Chrome OS,False,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,3
+0,Windows,False,United States,3
+0,Windows,False,United States,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,United States,3
+0,Chrome OS,False,United States,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,Taiwan,3
+0,Macintosh,False,United States,3
+0,Windows,False,United States,3
+0,Windows,False,United States,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,United States,3
+0,Windows,False,United States,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,United States,3
+0,iOS,True,United States,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,United States,3
+0,Windows,False,United States,3
+0,Chrome OS,False,United States,3
+0,Windows,False,United States,3
+0,iOS,True,United States,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,United States,3
+0,Chrome OS,False,United States,3
+0,iOS,True,United States,3
+0,iOS,True,United States,3
+0,iOS,True,United States,3
+0,iOS,True,United States,3
+0,iOS,True,United States,3
+0,iOS,True,United States,3
+0,iOS,True,United States,3
+0,Android,True,Malaysia,3
+0,iOS,True,Northern Mariana Islands,3
+0,Windows,False,United States,3
+0,Windows,False,United States,3
+0,iOS,True,United States,3
+0,Windows,False,China,2
+0,iOS,True,United States,4
+0,iOS,True,United States,4
+0,iOS,True,United States,4
+0,iOS,True,United States,4
+0,Linux,False,United States,4
+0,Macintosh,False,United States,4
+0,Windows,False,United States,4
+0,Windows,False,United States,4
+0,Windows,False,United States,4
+0,Windows,False,United States,4
+0,Macintosh,False,United States,4
+0,Windows,False,United States,4
+0,Windows,False,United States,4
+0,iOS,True,United States,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,United States,3
+0,Linux,False,United States,4
+0,Windows,False,United States,4
+0,iOS,True,United States,4
+0,Macintosh,False,United States,4
+0,Windows,False,United States,4
+0,iOS,True,United States,4
+0,Android,True,United States,4
+0,iOS,True,United States,4
+0,Chrome OS,False,United States,5
+0,Chrome OS,False,United States,5
+0,Windows,False,United States,5
+0,Macintosh,False,United States,5
+0,Macintosh,False,United States,5
+0,iOS,True,United States,5
+0,iOS,True,United States,4
+0,Macintosh,False,United States,4
+0,iOS,True,United States,5
+0,iOS,True,United States,5
+0,iOS,True,United States,4
+0,Macintosh,False,United States,5
+0,Windows,False,United Kingdom,5
+0,Macintosh,False,Australia,5
+0,iOS,True,United States,5
+0,Xbox,False,United States,5
+0,iOS,True,United States,5
+0,Macintosh,False,United States,2
+0,iOS,True,United States,2
+0,Macintosh,False,United States,2
+0,Macintosh,False,United States,2
+0,Windows,False,United States,2
+0,iOS,True,United States,2
+0,Android,True,United States,2
+0,iOS,True,United States,2
+0,iOS,True,United States,1
+0,Windows,False,United States,2
+0,Windows,False,United States,2
+0,Android,True,United States,2
+0,iOS,True,United States,2
+0,Android,True,India,1
+0,Android,True,India,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,iOS,True,India,1
+0,Windows,False,India,1
+0,Android,True,India,1
+0,Windows,False,India,1
+0,iOS,True,India,1
+0,Windows,False,India,1
+0,Linux,False,India,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,iOS,True,India,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,Android,True,India,1
+0,Macintosh,False,India,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,iOS,True,India,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,Windows,False,United States,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,iOS,True,India,1
+0,Android,True,India,1
+0,Android,True,India,1
+0,Windows,False,India,1
+0,iOS,True,India,1
+0,Windows,False,India,1
+0,Macintosh,False,India,1
+0,Windows,False,India,1
+0,Android,True,India,1
+0,Android,True,India,1
+0,Android,True,India,1
+0,Android,True,India,1
+0,iOS,True,India,1
+0,Chrome OS,False,India,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,Windows,False,India,1
+0,iOS,True,India,1
+0,Windows,False,India,1
+0,Android,True,India,1
+0,Linux,False,India,1
+0,Android,True,India,2
+0,Android,True,India,2
+0,Windows,False,India,2
+0,Android,True,India,2
+0,Windows,False,India,2
+0,Windows,False,India,2
+0,Windows,False,India,2
+0,Windows,False,India,2
+0,Windows,False,India,2
+0,Windows,False,India,2
+0,Windows,False,India,2
+0,Android,True,India,2
+0,Windows,False,India,2
+0,Android,True,India,2
+0,Linux,False,India,2
+0,Windows,False,India,1
+0,Windows,False,India,2
+0,Windows,False,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,Windows,False,United Kingdom,1
+0,Chrome OS,False,United Kingdom,1
+0,Macintosh,False,United Kingdom,1
+0,Macintosh,False,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,Chrome OS,False,United Kingdom,1
+0,Macintosh,False,United Kingdom,1
+0,Windows,False,United Kingdom,1
+0,Windows,False,United Kingdom,1
+0,Android,True,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,Macintosh,False,United Kingdom,1
+0,Android,True,United Kingdom,1
+0,Chrome OS,False,United Kingdom,1
+0,Windows,False,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,Windows,False,United Kingdom,1
+0,Macintosh,False,United Kingdom,1
+0,iOS,True,Canada,1
+0,iOS,True,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,Macintosh,False,United Kingdom,1
+0,Macintosh,False,United Kingdom,1
+0,Windows,False,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,Windows,False,United Kingdom,1
+0,Chrome OS,False,United Kingdom,1
+0,Windows,False,United Kingdom,1
+0,Windows,False,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,Android,True,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,Macintosh,False,United Kingdom,1
+0,iOS,True,United Kingdom,1
+0,Android,True,United Kingdom,1
+0,Windows,False,Australia,1
+0,iOS,True,Australia,1
+0,iOS,True,Australia,1
+0,iOS,True,United States,1
+0,Macintosh,False,Australia,1
+0,Windows,False,Australia,1
+0,Macintosh,False,Australia,1
+0,Macintosh,False,Australia,1
+0,Android,True,Australia,1
+0,Windows,False,Australia,1
+0,Macintosh,False,Australia,1
+0,iOS,True,Australia,1
+0,iOS,True,Australia,1
+0,Macintosh,False,Australia,1
+0,Macintosh,False,Australia,1
+0,iOS,True,Australia,1
+0,iOS,True,Australia,1
+0,Macintosh,False,Australia,1
+0,iOS,True,Australia,1
+0,Chrome OS,False,Australia,1
+0,Windows,False,Australia,1
+0,Windows,False,Australia,1
+0,Macintosh,False,Australia,1
+0,Macintosh,False,Australia,1
+0,Windows,False,Australia,1
+0,Android,True,Australia,1
+0,Android,True,Australia,1
+0,Windows,False,Colombia,1
+0,Macintosh,False,Colombia,1
+0,Macintosh,False,Colombia,1
+0,Windows,False,Colombia,1
+0,Windows,False,Colombia,1
+0,Macintosh,False,Colombia,1
+0,Macintosh,False,Colombia,1
+0,Android,True,Colombia,1
+0,Windows,False,Colombia,1
+0,Windows,False,Colombia,1
+0,Windows,False,Colombia,1
+0,iOS,True,Colombia,1
+0,Android,True,Colombia,1
+0,Macintosh,False,Mexico,1
+0,Windows,False,Mexico,1
+0,Windows,False,Mexico,1
+0,Windows,False,Mexico,1
+0,Windows,False,Mexico,1
+0,Windows,False,Mexico,1
+0,Windows,False,Mexico,1
+0,Windows,False,Mexico,1
+0,Windows,False,Mexico,1
+0,iOS,True,Mexico,1
+0,Macintosh,False,Mexico,1
+0,Windows,False,Mexico,1
+0,Windows,False,Mexico,1
+0,Linux,False,United Kingdom,1
+0,Macintosh,False,United States,1
+0,Chrome OS,False,United States,1
+0,Linux,False,United States,1
+0,Linux,False,United States,1
+0,Chrome OS,False,United States,1
+0,Macintosh,False,India,1
+0,Macintosh,False,United States,1
+0,Linux,False,United States,1
+0,Chrome OS,False,United States,1
+0,Chrome OS,False,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,United States,1
+0,Macintosh,False,United States,1
+0,Linux,False,United States,1
+0,Linux,False,United States,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,Windows,False,Germany,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,Linux,False,United States,1
+0,Linux,False,United States,1
+0,Macintosh,False,United States,1
+0,Linux,False,United States,1
+0,Macintosh,False,United States,1
+0,Linux,False,Canada,1
+0,Chrome OS,False,United States,1
+0,Linux,False,United Kingdom,1
+0,Linux,False,United States,1
+0,Macintosh,False,United States,1
+0,Chrome OS,False,United States,1
+0,Macintosh,False,United States,1
+0,Linux,False,United States,1
+0,Windows,False,United States,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,Macintosh,False,United States,1
+0,Chrome OS,False,United States,2
+0,Linux,False,United States,2
+0,Linux,False,United States,2
+0,Macintosh,False,United States,2
+0,Macintosh,False,United States,2
+0,Macintosh,False,United States,2
+0,Linux,False,United States,2
+0,Macintosh,False,United States,2
+0,Chrome OS,False,United States,2
+0,Chrome OS,False,United States,2
+0,Macintosh,False,United States,2
+0,Chrome OS,False,United States,2
+0,Macintosh,False,United States,2
+0,Windows,False,United States,2
+0,Macintosh,False,United States,2
+0,Macintosh,False,United States,2
+0,Macintosh,False,Germany,2
+0,Linux,False,United States,2
+0,Macintosh,False,United States,2
+0,Linux,False,United States,2
+0,Linux,False,United States,2
+0,Macintosh,False,United States,2
+0,Macintosh,False,United States,2
+0,Chrome OS,False,United States,2
+0,Linux,False,United States,2
+0,Macintosh,False,United States,2
+0,Macintosh,False,United States,2
+0,Chrome OS,False,United States,2
+0,Macintosh,False,United States,3
+0,Linux,False,United States,3
+0,Macintosh,False,Germany,3
+0,Macintosh,False,United States,3
+0,Linux,False,United States,3
+0,Linux,False,Canada,3
+0,Macintosh,False,United States,3
+0,Linux,False,United States,3
+0,Linux,False,United States,3
+0,Linux,False,United States,3
+0,Linux,False,United States,3
+0,Linux,False,United States,3
+0,Chrome OS,False,United States,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,United States,3
+0,Linux,False,United States,3
+0,Chrome OS,False,United States,3
+0,Windows,False,United States,3
+0,Chrome OS,False,United States,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,United States,3
+0,Linux,False,Switzerland,4
+0,Linux,False,United States,4
+0,Macintosh,False,United States,3
+0,Macintosh,False,United States,4
+0,Linux,False,United States,4
+0,Linux,False,United States,4
+0,Macintosh,False,United States,3
+0,Macintosh,False,United Kingdom,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,United States,3
+0,Macintosh,False,United States,3
+0,Linux,False,United States,4
+0,Linux,False,United States,4
+0,Macintosh,False,Ireland,4
+0,Windows,False,United States,4
+0,Linux,False,United States,4
+0,Linux,False,United States,4
+0,Macintosh,False,United States,4
+0,Linux,False,United States,4
+0,Linux,False,United States,4
+0,Linux,False,United States,4
+0,Macintosh,False,United States,4
+0,Windows,False,United States,1
+0,Windows,False,United States,1
+0,Windows,False,United Kingdom,1
+0,Windows,False,United States,1
+0,Windows,False,United States,1
+0,Windows,False,United Kingdom,1
+0,Windows,False,United States,1
+0,Android,True,South Africa,1
+0,Windows,False,United States,1
+0,Windows,False,United Kingdom,1
+0,Linux,False,India,1
+0,Windows,False,United States,1
+0,Android,True,United States,1
+0,Windows,False,United Kingdom,1
+0,Windows,False,United Kingdom,1
+0,Macintosh,False,United States,1
+0,Windows,False,United Kingdom,1
+0,Windows,False,United Kingdom,1
+0,Windows,False,Bosnia & Herzegovina,1
+0,Samsung,True,India,1
+0,Windows,False,India,1
+0,Windows,False,Russia,1
+0,Linux,False,Brazil,1
+0,Windows,False,Taiwan,1
+0,Macintosh,False,United States,1
+0,Windows,False,Taiwan,1
+0,Macintosh,False,Taiwan,1
+0,Macintosh,False,United Kingdom,1
+0,Windows,False,Taiwan,1
+0,Windows,False,Namibia,1
+0,Windows,False,Namibia,1
+0,Windows,False,Taiwan,1
+0,Windows,False,United States,1
+0,iOS,True,Monaco,1
+0,Windows,False,Taiwan,1
+0,Linux,False,Estonia,1
