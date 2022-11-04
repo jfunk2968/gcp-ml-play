@@ -1,0 +1,6 @@
+,record_id,day,label,os,is_mobile,country,pageviews,visits,hits,bounces,campaign,traffic_source,medium,device_category,engagement_type,split_seg
+0,-1595987367179803479,2016-09-29,0,iOS,True,United States,4,1,6,0,(not set),siliconvalley.about.com,referral,mobile,Not Socially Engaged,8
+1,-5833097415970432540,2016-09-29,0,iOS,True,United States,13,1,17,0,(not set),duckduckgo.com,referral,mobile,Not Socially Engaged,8
+2,-3190546040571234557,2016-09-29,0,iOS,True,United States,11,1,18,0,(not set),siliconvalley.about.com,referral,mobile,Not Socially Engaged,8
+3,1148536304983779444,2016-09-29,0,iOS,True,Taiwan,7,1,8,0,(not set),m.facebook.com,referral,mobile,Not Socially Engaged,8
+4,5582351582810443098,2016-09-29,0,iOS,True,United States,1,1,1,1,(not set),m.facebook.com,referral,mobile,Not Socially Engaged,8
